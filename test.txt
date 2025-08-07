@@ -1,0 +1,2 @@
+Hello from async functionHello from appendFileExample function
+Hello from appendFileExample function
